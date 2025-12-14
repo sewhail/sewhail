@@ -1,16 +1,20 @@
-## Hi there 👋
+### hey, i'm suhail 👋
 
-<!--
-**sewhail/sewhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineer from amsterdam, the netherlands.
 
-Here are some ideas to get you started:
+building web experiences · exploring machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**currently:**
+- exploring ml fundamentals
+- mathematical concepts deep dive
+- advancing python skills
+- building practical projects
+
+**stack:**
+`js` `py` `react` `node` `ts` `psql` `docker` `aws`
+
+---
+
+[website](https://sewhail.com) · [linkedin](https://linkedin.com/in/sewhail) · [email](mailto:sxhail@outlook.in)
