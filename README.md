@@ -17,4 +17,4 @@ building web experiences · exploring machine learning
 
 ---
 
-[website](https://sewhail.com) · [linkedin](https://linkedin.com/in/sewhail) · [email](mailto:sxhail@outlook.in)
+[website](https://sewhail.com) · [linkedin](https://linkedin.com/in/sewhail) · [email](mailto:hello@sewhail.in)
