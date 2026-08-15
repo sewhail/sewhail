@@ -1,6 +1,6 @@
 ### hey, i'm suhail 👋
 
-###software engineer from amsterdam, the netherlands.
+software engineer from amsterdam, the netherlands.
 ---
 
 **currently:**
