@@ -3,7 +3,7 @@
 a software engineer from amsterdam, the netherlands.
 
 **currently:**
-- exploring ml
+- exploring ai/ml
 
 **stack:**
 `js` `py` `react` `node` `ts` `psql` `docker` `aws`
